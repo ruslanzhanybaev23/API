@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1183" started-at="2017-09-21T00:07:55Z" finished-at="2017-09-21T00:07:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1183" started-at="2017-09-21T00:07:55Z" finished-at="2017-09-21T00:07:56Z">
+      <class name="get.SimpleGet">
+        <test-method status="PASS" signature="get()[pri:0, instance:get.SimpleGet@643b1d11]" name="get" duration-ms="1162" started-at="2017-09-20T19:07:55Z" finished-at="2017-09-20T19:07:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- get.SimpleGet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
