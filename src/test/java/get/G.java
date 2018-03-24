@@ -11,6 +11,7 @@ public class G {
 		System.out.println(hi);
 		int statusCode = when().get(uri).thenReturn().statusCode();
 		System.out.println("Status code: "+statusCode);
+		System.out.println("P");
 
 	}
 
